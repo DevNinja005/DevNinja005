@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Diya_Mehta
 - 👀 I’m interested in Web development & Software Development
 - 🐣 I'm a fresher 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on some Minimalist Projects
 - 📫 How to reach me : 
       e.mail- diamehta28@gmail.com
